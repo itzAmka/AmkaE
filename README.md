@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmkaE
 - 👀 I’m interested in Web developement
-- 🌱 I’m currently learning Js Py Php
+- 🌱 I’m currently learning Js.
 <!-- - 💞️ I’m looking to collaborate on .
 - 📫 How to reach me ... -->
 
