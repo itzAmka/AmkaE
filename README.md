@@ -9,5 +9,5 @@ I'm passionate about web development and always eager to learn new technologies 
 <br>
 - 💞️ I’m open to collaborate on projects. <br>
 - 📫 Here is my discord @!AmkaE#0971 <br>
-- 📨 My contact form [contact form](https://amkae.vercel.app/#contact) 
+- 📨 My contact form https://amkae.vercel.app/#contact
 <br>
