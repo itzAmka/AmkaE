@@ -1,4 +1,4 @@
-# 👋Hi, I’m [Amin](https://amkae.vercel.app/#about) and I go by AmkaE <br>
+# 👋Hi, I’m [Amin](https://amka.dev/) and I go by AmkaE <br>
 <br>
 I'm a Web Developer grad student with 2 years of experience seeking a job (Full, or Part Time, Internship or Apprenticeships). I have skills in HTML, CSS, JavaScript and its libraries/frameworks such as ReactJS, Svelte, and SvelteKit. Additionally, I have experience with backend technologies like NodeJS, ExpressJS, and MongoDB.
 <br>
